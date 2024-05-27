@@ -37,7 +37,7 @@
   - Logical Assignment
   - Bitwise operators: 👂 heard
   - Ternary operator: k
-  - `void`
+  - `void` h
   - `yield`
   - `await`
   - Template literal
