@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-68&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-88&nbsp;/&nbsp;312&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-68&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-88&nbsp;/&nbsp;312&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-68&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/sashko2004-57/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-88&nbsp;/&nbsp;312&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -18,21 +18,21 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `5` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `9` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `2` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `2` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `5` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `4` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `5` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `6` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `6` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `1` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `3` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `4` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `12` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `13` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `10` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `4` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `2` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `2` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
@@ -92,9 +92,7 @@
 | `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
 | Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
 | `prototype` | 🤷 unknown | ⟶  | 👂 heard |
-| Equality operators | 👂 heard | ⟶  | 🖐️ used |
-| Logical operators | 👂 heard | ⟶  | 🖐️ used |
-| Ternary operator | 👂 heard | ⟶  | 🖐️ used |
+| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 👂 heard |
 | `await` | 🤷 unknown | ⟶  | 👂 heard |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
@@ -115,7 +113,7 @@
 | `new` | 🤷 unknown | ⟶  | 🖐️ used |
 | Async function | 🤷 unknown | ⟶  | 🎓 known |
 | Function declaration | 🎓 known | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 👂 heard | ⟶  | 🖐️ used |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
 | `Set` | 🤷 unknown | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
@@ -129,7 +127,7 @@
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `11` of `72` skills, `61` to be upgraded, and `0` above needed
+Total: you have `13` of `72` skills, `59` to be upgraded, and `0` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -160,10 +158,8 @@ Total: you have `11` of `72` skills, `61` to be upgraded, and `0` above needed
 | `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
 | Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
-| Equality operators | 👂 heard | ⟶  | 🖐️ used |
-| Logical operators | 👂 heard | ⟶  | 🖐️ used |
-| Ternary operator | 👂 heard | ⟶  | 🖐️ used |
-| `void` | 🤷 unknown | ⟶  | 🖐️ used |
+| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
+| `void` | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 🖐️ used |
 | `await` | 🤷 unknown | ⟶  | 🖐️ used |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
@@ -198,7 +194,7 @@ Total: you have `11` of `72` skills, `61` to be upgraded, and `0` above needed
 | `new` | 🤷 unknown | ⟶  | 🖐️ used |
 | Async function | 🤷 unknown | ⟶  | 🖐️ used |
 | Function declaration | 🎓 known | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 👂 heard | ⟶  | 🖐️ used |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
 | `Set` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
@@ -220,11 +216,10 @@ Total: you have `11` of `72` skills, `61` to be upgraded, and `0` above needed
 | `console` | 🤷 unknown | ⟶  | 🖐️ used |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | V8 | 👂 heard | ⟶  | 🖐️ used |
-| Node.js | 🤷 unknown | ⟶  | 👂 heard |
-| npm | 🤷 unknown | ⟶  | 🎓 known |
+| npm | 👂 heard | ⟶  | 🎓 known |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `8` of `98` skills, `90` to be upgraded, and `0` above needed
+Total: you have `11` of `98` skills, `87` to be upgraded, and `0` above needed
 
 ## [Async](/Skills/Async.md)
 
