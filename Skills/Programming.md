@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
@@ -113,13 +113,13 @@
   - Object
   - Collection
   - Set
-  - Hash table k
-  - Linked list k
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue k
-  - Stack: k
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
   - Tree
   - Graph
@@ -137,7 +137,7 @@
   - CORS
   - IPv4: 🎓 known
   - IPv6: 🎓 known
-  - NAT: k
+  - NAT: 🎓 known
   - URL: 🎓 known
   - URN
   - URI
@@ -148,7 +148,7 @@
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter k
+  - Interpreter: 🎓 known
   - Linker
   - Dynamic linking
   - Static linking
@@ -162,7 +162,7 @@
   - Garbage collection
   - Refactoring
   - Code review: 🎓 known
-  - Exception k
+  - Exception: 🎓 known
   - Unittesting
   - git
   - Github: 🖐️ used
@@ -183,7 +183,7 @@
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code k
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops: 🎓 known
@@ -209,30 +209,30 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers k
+  - Drivers: 🎓 known
   - Kernel
   - Ring
   - Virtual memory
   - File system: 🎓 known
   - Linux: 🎓 known
-  - Unix h
-  - BSD h
-  - MacOS h
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 👂 heard
   - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
   - ASCII: 🎓 known
-  - Escape sequence h
+  - Escape sequence: 👂 heard
   - RFC: 🎓 known
   - IETF
   - IANA
   - IEEE
-  - Base64 k
+  - Base64: 🎓 known
   - ECMA
   - ICANN
   - ISO: 🎓 known
-  - MIME h
+  - MIME: 👂 heard
   - OWASP
   - UTF-8: 🎓 known
   - W3C

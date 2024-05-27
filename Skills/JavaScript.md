@@ -32,12 +32,12 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators: u
-  - Logical operators: u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators: 👂 heard
-  - Ternary operator: k
-  - `void` h
+  - Ternary operator: 🎓 known
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
@@ -83,7 +83,7 @@
   - Async function
   - Function declaration: 🎓 known
   - Function expression: 🖐️ used
-  - Default parameters h
+  - Default parameters: 👂 heard
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8: 👂 heard
-  - Node.js h
-  - npm h
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN: 🎓 known
   - TC39
