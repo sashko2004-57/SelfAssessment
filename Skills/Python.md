@@ -1,0 +1,11 @@
+## Python
+- equality operators: 🖐️ used
+- logical operators: 🎓 known
+- bitwise operators: 🎓 known
+- ternary operator: 🎓 known
+- if: 🖐️ used
+- while: 🎓 known
+- for: 🖐️ used
+- break: 🎓 known
+- function declaration: 🖐️ used
+- return: 🖐️ used
