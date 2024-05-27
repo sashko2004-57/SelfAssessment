@@ -5,13 +5,13 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
-  - Semantics
+  - Syntax k
+  - Semantics k
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
   - Module
   - Library
@@ -19,7 +19,7 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code k
   - Object code
   - Machine code
   - Microcode
@@ -32,34 +32,34 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value k
   - Identifier
-  - Variable
-  - Constant
+  - Variable k
+  - Constant k
   - Scalar
   - Literal
   - Expression
-  - Heap
+  - Heap h
   - Function
   - Procedure
   - Method
   - Class
   - Prototype
   - Event
-  - Type
+  - Type k
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case u
   - Snake case
   - Kebab case
   - Trailing commas
@@ -119,7 +119,7 @@
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack h
   - Deque
   - Tree
   - Graph
@@ -128,21 +128,21 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON k
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS k
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 k
+  - IPv6 k
+  - NAT h
+  - URL k
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,22 +157,22 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review k
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers k
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops k
+  - Long method/function/procedure h
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
@@ -213,27 +213,27 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system k
+  - Linux k
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
-  - RFC
+  - RFC k
   - IETF
   - IANA
   - IEEE
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO k
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 k
   - W3C
   - ODMG
