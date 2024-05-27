@@ -2,16 +2,16 @@
 
 - Language
   - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
   - `BigInt`
-  - `String`
+  - `String` k
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
@@ -32,11 +32,11 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators h
+  - Logical operators h
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Bitwise operators h
+  - Ternary operator h
   - `void`
   - `yield`
   - `await`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` u
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break` k
+  - `continue` k
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` k
+  - `class` h
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration k
+  - Function expression u
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array` u
+  - `Map` u
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8
+  - V8 h
   - Node.js
   - npm
   - prettier
-  - MDN
+  - MDN k
   - TC39
