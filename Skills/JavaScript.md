@@ -2,16 +2,16 @@
 
 - Language
   - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
   - `BigInt`
-  - `String`
+  - `String`: 🎓 known
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
   - `...spread`
@@ -32,11 +32,11 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators: 👂 heard
+  - Logical operators: 👂 heard
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
   - `void`
   - `yield`
   - `await`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`: 🖐️ used
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🖐️ used
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch`: 🎓 known
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration: 🎓 known
+  - Function expression: 🖐️ used
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8
+  - V8: 👂 heard
   - Node.js
   - npm
   - prettier
-  - MDN
+  - MDN: 🎓 known
   - TC39

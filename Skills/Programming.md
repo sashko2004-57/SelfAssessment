@@ -5,13 +5,13 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
-  - Semantics
+  - Syntax: 🎓 known
+  - Semantics: 🎓 known
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language
+  - Programming language: 🎓 known
   - Contract
   - Module
   - Library
@@ -19,7 +19,7 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code: 🎓 known
   - Object code
   - Machine code
   - Microcode
@@ -32,34 +32,34 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value: 🎓 known
   - Identifier
-  - Variable
-  - Constant
+  - Variable: 🎓 known
+  - Constant: 🎓 known
   - Scalar
   - Literal
   - Expression
-  - Heap
+  - Heap: 👂 heard
   - Function
   - Procedure
   - Method
   - Class
   - Prototype
   - Event
-  - Type
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -119,7 +119,7 @@
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack: 👂 heard
   - Deque
   - Tree
   - Graph
@@ -128,21 +128,21 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 👂 heard
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,22 +157,22 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review: 🎓 known
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 👂 heard
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
@@ -213,27 +213,27 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system: 🎓 known
+  - Linux: 🎓 known
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🎓 known
   - Escape sequence
-  - RFC
+  - RFC: 🎓 known
   - IETF
   - IANA
   - IEEE
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO: 🎓 known
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🎓 known
   - W3C
   - ODMG
