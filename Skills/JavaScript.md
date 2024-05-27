@@ -2,16 +2,16 @@
 
 - Language
   - `Object`
-  - `Function` k
-  - `Boolean` k
-  - `Number` k
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
   - `BigInt`
-  - `String` k
+  - `String`: 🎓 known
   - `Symbol`
-  - `Infinity` k
-  - `NaN` k
-  - `undefined` k
-  - `null` k
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
   - `...spread`
@@ -32,11 +32,11 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators h
-  - Logical operators h
+  - Equality operators: 👂 heard
+  - Logical operators: 👂 heard
   - Logical Assignment
-  - Bitwise operators h
-  - Ternary operator h
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
   - `void`
   - `yield`
   - `await`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` k
-  - `do..while` k
-  - `for` k
-  - `for..in` k
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🖐️ used
   - `for await`
   - `throw`
-  - `break` k
-  - `continue` k
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch` k
-  - `class` h
+  - `switch`: 🎓 known
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration k
-  - Function expression u
+  - Function declaration: 🎓 known
+  - Function expression: 🖐️ used
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` u
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8 h
+  - V8: 👂 heard
   - Node.js
   - npm
   - prettier
-  - MDN k
+  - MDN: 🎓 known
   - TC39
